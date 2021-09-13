@@ -1,0 +1,25 @@
+{    
+    "Sheila" : {
+        "firstName": "Sheila",
+        "middleName": "Lygre",
+        "lastName": "Weitling",
+        "age": 26,
+        "height": [  
+            {
+                "heightNumbers": 158,
+                "measuringUnit": "cm"
+            },
+            {
+                "heightNumbers": 1580,
+                "measuringUnit": "mm"
+            }
+        ],
+        "gender": "Female", 
+        "eyeColor": "Green",
+        "colorOfSocks": "Blue"
+    },
+    "contact": {
+        "email": "sheila-l-w@hotmail.com",
+        "mobile": 29928854
+    }
+}    
