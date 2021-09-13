@@ -10,7 +10,7 @@
                     },
                     "amount": 5,
                     "description": "best stringcheese in the wooooorld",
-                    "warehouse status": 4832,
+                    "stockList": 4832,
                     "picture": [
                         "stringcheeseLeftPicture.jpeg",
                         "stringcheeseRightPicture.jpeg"
@@ -27,7 +27,7 @@
                     },
                     "amount": 1,
                     "description": "Rare Emmenthaler in our shop, only three left",
-                    "warehouse status": 3,
+                    "stockList": 3,
                     "picture": [
                         "emmenthalerLeftPicture.jpeg",
                         "emmenthalerRightPicture.jpeg"
